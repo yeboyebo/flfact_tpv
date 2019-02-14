@@ -206,14 +206,6 @@
             },
             {
                 "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_usovale.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_usovale_def.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
                 "name": "model_flfact_tpv__tpv_vales.py"
             },
             {

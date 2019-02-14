@@ -59,7 +59,6 @@
                         "form": "tpv_tiendas",
                         "formRecord": "tpv_mastertiendas"
                     },
-                    "tpv_usovale": null,
                     "tpv_vales": {
                         "form": "tpv_vales",
                         "formRecord": "tpv_mastervales"
