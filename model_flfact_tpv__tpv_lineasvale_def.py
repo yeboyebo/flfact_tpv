@@ -17,7 +17,7 @@ from YBLEGACY.constantes import *
 class flfact_tpv(interna):
 
     def flfact_tpv_getDesc(self):
-        return None
+        return "referencia"
 
     def __init__(self, context=None):
         super().__init__(context)
