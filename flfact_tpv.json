@@ -11,7 +11,216 @@
                 "path": "config/"
             }
         ],
-        "addFile": [],
+        "addFile": [
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_agentes.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_agentes_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_anularvales.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_anularvales_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_arqueos.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_arqueos_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_cantidadpago.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_cantidadpago_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_causasmovimiento.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_causasmovimiento_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_claveacceso.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_claveacceso_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_comandas.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_comandas_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_consultastocks.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_consultastocks_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_datosgenerales.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_datosgenerales_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_finventa.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_finventa_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_arqueos.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_arqueos_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_comandas.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_comandas_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_rentabilidad.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_rentabilidad_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_vales.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_vales_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_ventas.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_i_ventas_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_lineascomanda.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_lineascomanda_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_lineasvale.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_lineasvale_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_movimientos.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_movimientos_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_movivale.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_movivale_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_pagoscomanda.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_pagoscomanda_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_puntosventa.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_puntosventa_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_secuenciascomanda.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_secuenciascomanda_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_tarjetaspago.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_tarjetaspago_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_tiendas.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_tiendas_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_usovale.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_usovale_def.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_vales.py"
+            },
+            {
+                "path": "models/flfact_tpv/",
+                "name": "model_flfact_tpv__tpv_vales_def.py"
+            }
+        ],
         "replaceFile": [
             {
                 "name": "dependencias.json",

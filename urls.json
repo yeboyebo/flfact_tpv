@@ -1,3 +1,38 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/models/root",
+            "value": {
+                "flfact_tpv": {
+                    "tpv_agentes": null,
+                    "tpv_anularvales": null,
+                    "tpv_arqueos": null,
+                    "tpv_cantidadpago": null,
+                    "tpv_causasmovimiento": null,
+                    "tpv_claveacceso": null,
+                    "tpv_comandas": null,
+                    "tpv_consultastocks": null,
+                    "tpv_datosgenerales": null,
+                    "tpv_finventa": null,
+                    "tpv_i_arqueos": null,
+                    "tpv_i_comandas": null,
+                    "tpv_i_rentabilidad": null,
+                    "tpv_i_vales": null,
+                    "tpv_i_ventas": null,
+                    "tpv_lineascomanda": null,
+                    "tpv_lineasvale": null,
+                    "tpv_movimientos": null,
+                    "tpv_movivale": null,
+                    "tpv_pagoscomanda": null,
+                    "tpv_puntosventa": null,
+                    "tpv_secuenciascomanda": null,
+                    "tpv_tarjetaspago": null,
+                    "tpv_tiendas": null,
+                    "tpv_usovale": null,
+                    "tpv_vales": null
+                }
+            }
+        }
+    ]
 }

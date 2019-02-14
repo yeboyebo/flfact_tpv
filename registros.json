@@ -1,3 +1,71 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/root",
+            "value": {
+                "flfact_tpv": {
+                    "tpv_agentes": {
+                        "form": "tpv_agentes",
+                        "formRecord": "tpv_masteragentes"
+                    },
+                    "tpv_anularvales": null,
+                    "tpv_arqueos": {
+                        "form": "tpv_arqueos",
+                        "formRecord": "tpv_masterarqueos"
+                    },
+                    "tpv_cantidadpago": null,
+                    "tpv_causasmovimiento": {
+                        "form": "tpv_causasmovimiento",
+                        "formRecord": "tpv_mastercausasmovimiento"
+                    },
+                    "tpv_claveacceso": null,
+                    "tpv_comandas": {
+                        "form": "tpv_comandas",
+                        "formRecord": "tpv_mastercomandas"
+                    },
+                    "tpv_consultastocks": null,
+                    "tpv_datosgenerales": null,
+                    "tpv_finventa": null,
+                    "tpv_i_arqueos": null,
+                    "tpv_i_comandas": null,
+                    "tpv_i_rentabilidad": {
+                        "form": "tpv_i_rentabilidad",
+                        "formRecord": "tpv_i_masterrentabilidad"
+                    },
+                    "tpv_i_vales": null,
+                    "tpv_i_ventas": {
+                        "form": "tpv_i_ventas",
+                        "formRecord": "tpv_i_masterventas"
+                    },
+                    "tpv_lineascomanda": null,
+                    "tpv_lineasvale": null,
+                    "tpv_movimientos": null,
+                    "tpv_movivale": null,
+                    "tpv_pagoscomanda": {
+                        "form": "tpv_pagoscomanda",
+                        "formRecord": "tpv_masterpagoscomanda"
+                    },
+                    "tpv_puntosventa": {
+                        "form": "tpv_puntosventa",
+                        "formRecord": "tpv_masterpuntosventa"
+                    },
+                    "tpv_secuenciascomanda": null,
+                    "tpv_tarjetaspago": {
+                        "form": "tpv_tarjetaspago",
+                        "formRecord": "tpv_mastertarjetaspago"
+                    },
+                    "tpv_tiendas": {
+                        "form": "tpv_tiendas",
+                        "formRecord": "tpv_mastertiendas"
+                    },
+                    "tpv_usovale": null,
+                    "tpv_vales": {
+                        "form": "tpv_vales",
+                        "formRecord": "tpv_mastervales"
+                    }
+                }
+            }
+        }
+    ]
 }
