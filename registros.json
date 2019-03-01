@@ -6,23 +6,23 @@
             "value": {
                 "flfact_tpv": {
                     "tpv_agentes": {
-                        "form": "tpv_agentes",
-                        "formRecord": "tpv_masteragentes"
+                        "form": "tpv_masteragentes",
+                        "formRecord": "tpv_agentes"
                     },
                     "tpv_anularvales": null,
                     "tpv_arqueos": {
-                        "form": "tpv_arqueos",
-                        "formRecord": "tpv_masterarqueos"
+                        "form": "tpv_masterarqueos",
+                        "formRecord": "tpv_arqueos"
                     },
                     "tpv_cantidadpago": null,
                     "tpv_causasmovimiento": {
-                        "form": "tpv_causasmovimiento",
-                        "formRecord": "tpv_mastercausasmovimiento"
+                        "form": "tpv_mastercausasmovimiento",
+                        "formRecord": "tpv_causasmovimiento"
                     },
                     "tpv_claveacceso": null,
                     "tpv_comandas": {
-                        "form": "tpv_comandas",
-                        "formRecord": "tpv_mastercomandas"
+                        "form": "tpv_mastercomandas",
+                        "formRecord": "tpv_comandas"
                     },
                     "tpv_consultastocks": null,
                     "tpv_datosgenerales": null,
@@ -30,38 +30,38 @@
                     "tpv_i_arqueos": null,
                     "tpv_i_comandas": null,
                     "tpv_i_rentabilidad": {
-                        "form": "tpv_i_rentabilidad",
-                        "formRecord": "tpv_i_masterrentabilidad"
+                        "form": "tpv_i_masterrentabilidad",
+                        "formRecord": "tpv_i_rentabilidad"
                     },
                     "tpv_i_vales": null,
                     "tpv_i_ventas": {
-                        "form": "tpv_i_ventas",
-                        "formRecord": "tpv_i_masterventas"
+                        "form": "tpv_i_masterventas",
+                        "formRecord": "tpv_i_ventas"
                     },
                     "tpv_lineascomanda": null,
                     "tpv_lineasvale": null,
                     "tpv_movimientos": null,
                     "tpv_movivale": null,
                     "tpv_pagoscomanda": {
-                        "form": "tpv_pagoscomanda",
-                        "formRecord": "tpv_masterpagoscomanda"
+                        "form": "tpv_masterpagoscomanda",
+                        "formRecord": "tpv_pagoscomanda"
                     },
                     "tpv_puntosventa": {
-                        "form": "tpv_puntosventa",
-                        "formRecord": "tpv_masterpuntosventa"
+                        "form": "tpv_masterpuntosventa",
+                        "formRecord": "tpv_puntosventa"
                     },
                     "tpv_secuenciascomanda": null,
                     "tpv_tarjetaspago": {
-                        "form": "tpv_tarjetaspago",
-                        "formRecord": "tpv_mastertarjetaspago"
+                        "form": "tpv_mastertarjetaspago",
+                        "formRecord": "tpv_tarjetaspago"
                     },
                     "tpv_tiendas": {
-                        "form": "tpv_tiendas",
-                        "formRecord": "tpv_mastertiendas"
+                        "form": "tpv_mastertiendas",
+                        "formRecord": "tpv_tiendas"
                     },
                     "tpv_vales": {
-                        "form": "tpv_vales",
-                        "formRecord": "tpv_mastervales"
+                        "form": "tpv_mastervales",
+                        "formRecord": "tpv_vales"
                     }
                 }
             }
