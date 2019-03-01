@@ -42,10 +42,7 @@
                     "tpv_lineasvale": null,
                     "tpv_movimientos": null,
                     "tpv_movivale": null,
-                    "tpv_pagoscomanda": {
-                        "form": "tpv_masterpagoscomanda",
-                        "formRecord": "tpv_pagoscomanda"
-                    },
+                    "tpv_pagoscomanda": null,
                     "tpv_puntosventa": {
                         "form": "tpv_masterpuntosventa",
                         "formRecord": "tpv_puntosventa"
