@@ -211,6 +211,18 @@
             {
                 "path": "models/flfact_tpv/",
                 "name": "model_flfact_tpv__tpv_vales_def.py"
+            },
+            {
+                "path": "apps/tpv/",
+                "name": "app_tpv____init__.py"
+            },
+            {
+                "path": "apps/tpv/templates/tpv/",
+                "name": "app_tpv__menu_tpv.json"
+            },
+            {
+                "path": "apps/tpv/viewset/",
+                "name": "app_tpv__views_tpv.py"
             }
         ],
         "replaceFile": [

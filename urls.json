@@ -2,6 +2,13 @@
     "modifications": [
         {
             "type": "insertAfterNode",
+            "path": "/portal",
+            "value": {
+                "tpv": {}
+            }
+        },
+        {
+            "type": "insertAfterNode",
             "path": "/models/root",
             "value": {
                 "flfact_tpv": {
