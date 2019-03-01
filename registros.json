@@ -49,8 +49,7 @@
                     },
                     "tpv_secuenciascomanda": null,
                     "tpv_tarjetaspago": {
-                        "form": "tpv_mastertarjetaspago",
-                        "formRecord": "tpv_tarjetaspago"
+                        "form": "tpv_mastertarjetaspago"
                     },
                     "tpv_tiendas": {
                         "form": "tpv_mastertiendas",
