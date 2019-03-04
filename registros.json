@@ -27,17 +27,6 @@
                     "tpv_consultastocks": null,
                     "tpv_datosgenerales": null,
                     "tpv_finventa": null,
-                    "tpv_i_arqueos": null,
-                    "tpv_i_comandas": null,
-                    "tpv_i_rentabilidad": {
-                        "form": "tpv_i_masterrentabilidad",
-                        "formRecord": "tpv_i_rentabilidad"
-                    },
-                    "tpv_i_vales": null,
-                    "tpv_i_ventas": {
-                        "form": "tpv_i_masterventas",
-                        "formRecord": "tpv_i_ventas"
-                    },
                     "tpv_lineascomanda": null,
                     "tpv_lineasvale": null,
                     "tpv_movimientos": null,

@@ -94,46 +94,6 @@
             },
             {
                 "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_arqueos.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_arqueos_def.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_comandas.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_comandas_def.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_rentabilidad.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_rentabilidad_def.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_vales.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_vales_def.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_ventas.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
-                "name": "model_flfact_tpv__tpv_i_ventas_def.py"
-            },
-            {
-                "path": "models/flfact_tpv/",
                 "name": "model_flfact_tpv__tpv_lineascomanda.py"
             },
             {
